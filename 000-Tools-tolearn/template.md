@@ -1,0 +1,13 @@
+# DevOps Tools
+- Continuous Development  - 
+- Source Code Management - Git
+- Continuous Integration - Jenkins
+- Unt test - JUnit
+- Build - Maven
+- Code Analysis - Sonarcube
+- Build Artifacts - JFrog / Dockerhub
+- Continuus Deployment - Ansible
+- Infrastructure - AWS / Docker /K8ts
+- Continuous Testing - N/A
+- Post deployment Testing - N/A
+- Continuous Monitoring - Prometheus
